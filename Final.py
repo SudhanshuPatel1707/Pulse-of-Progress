@@ -2,7 +2,7 @@ import io
 import pandas as pd
 import streamlit as st
 # import ydata_profiling
-from streamlit_player import st_player
+from streamlit-player import st_player
 from streamlit_pandas_profiling import st_profile_report
 from streamlit_extras.metric_cards import style_metric_cards
 from streamlit_extras.add_vertical_space import add_vertical_space
