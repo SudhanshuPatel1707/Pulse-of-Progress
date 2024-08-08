@@ -1,7 +1,7 @@
 streamlit
 pandas
 numpy
-streamlit_player
+streamlit-player
 streamlit_extras
 plotly
 seaborn
