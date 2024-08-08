@@ -1,11 +1,9 @@
 streamlit
 pandas
 numpy
-ydata-profiling
-streamlit-player
-streamlit-pandas-profiling
-streamlit-extras
+streamlit_player
+streamlit_extras
 plotly
 seaborn
 git-python
-XlsxWriter
+
