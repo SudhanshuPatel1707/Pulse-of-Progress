@@ -1,0 +1,10 @@
+streamlit
+plotly
+json
+altair
+seaborn
+st_player
+style_metric_cards
+add_vertical_space
+pandas
+numpy
